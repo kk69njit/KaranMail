@@ -2,7 +2,7 @@
 
 Submitted by: Karan Komal
 
-KaranMail is a simple recreation of the Gmail app using a RecyclerView.
+**KaranMail** is a simple recreation of the Gmail app using a RecyclerView.
 
 Time spent: **2** hours spent in total
 
